@@ -1,4 +1,4 @@
-package config;
+package com.mercado.api_mercado.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
